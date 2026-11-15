@@ -3,16 +3,17 @@
     "id": "com.whale.band.incremental",
     "restype": "quick_app",
     "name": "增量游乐场",
-    "description": "一个包含6款增量小游戏的快应用，后续会持续更新更多增量小游戏，有bug请在评论区或在我的爱发电跟我私信反馈，收到后我会及时修复",
+    "description": "一个包含6款增量小游戏的快应用，后续会持续更新更多增量小游戏",
     "preview": [
-      "media/1000027083.png",
-      "media/1000027082.png",
-      "media/1000027081.png",
-      "media/1000027080.png",
-      "media/1000027079.png"
+      "media/1000027303.jpg",
+      "media/1000027302.jpg",
+      "media/1000027301.jpg",
+      "media/1000027300.jpg",
+      "media/1000027299.jpg",
+      "media/1000027298.jpg"
     ],
-    "icon": "media/1000026239.png",
-    "cover": "media/1000026680.png",
+    "icon": "media/1000027297.png",
+    "cover": "media/1000027312.jpg",
     "author": [
       {
         "name": "Nddsxg",
@@ -20,53 +21,42 @@
       }
     ]
   },
-  "links": [
-    {
-      "title": "激活器链接",
-      "url": "https://pan.quark.cn/s/cdff5247fc50",
-      "icon": "download"
-    },
-    {
-      "title": "购买激活码链接",
-      "url": "https://afdian.com/item/604a950ae09611f188ce52540025c377",
-      "icon": "article"
-    }
-  ],
+  "links": [],
   "downloads": {
     "xmb10": {
-      "version": "1.2.5",
-      "file_name": "downloads/com.whale.band.incremental.release.1.2.5.rpk",
-      "versionCode": 17
+      "version": "1.4.0",
+      "file_name": "downloads/com.whale.band.incremental.release.1.4.0.rpk",
+      "versionCode": 21
     },
     "xmb10nfc": {
-      "version": "1.2.5",
-      "file_name": "downloads/com.whale.band.incremental.release.1.2.5.rpk",
-      "versionCode": 17
+      "version": "1.4.0",
+      "file_name": "downloads/com.whale.band.incremental.release.1.4.0.rpk",
+      "versionCode": 21
     },
     "xmb10p": {
-      "version": "1.2.5",
-      "file_name": "downloads/com.whale.band.incremental.release.1.2.5.rpk",
-      "versionCode": 17
+      "version": "1.4.0",
+      "file_name": "downloads/com.whale.band.incremental.release.1.4.0.rpk",
+      "versionCode": 21
     },
     "xmb11": {
-      "version": "1.2.5",
-      "file_name": "downloads/com.whale.band.incremental.release.1.2.5.rpk",
-      "versionCode": 17
+      "version": "1.4.0",
+      "file_name": "downloads/com.whale.band.incremental.release.1.4.0.rpk",
+      "versionCode": 21
     },
     "xmb11nfc": {
-      "version": "1.2.5",
-      "file_name": "downloads/com.whale.band.incremental.release.1.2.5.rpk",
-      "versionCode": 17
+      "version": "1.4.0",
+      "file_name": "downloads/com.whale.band.incremental.release.1.4.0.rpk",
+      "versionCode": 21
     },
     "xmb9": {
-      "version": "1.2.5",
-      "file_name": "downloads/com.whale.band.incremental.release.1.2.5.rpk",
-      "versionCode": 17
+      "version": "1.4.0",
+      "file_name": "downloads/com.whale.band.incremental.release.1.4.0.rpk",
+      "versionCode": 21
     },
     "xmb9p": {
-      "version": "1.2.5",
-      "file_name": "downloads/com.whale.band.incremental.release.1.2.5.rpk",
-      "versionCode": 17
+      "version": "1.4.0",
+      "file_name": "downloads/com.whale.band.incremental.release.1.4.0.rpk",
+      "versionCode": 21
     }
   },
   "ext": {}
